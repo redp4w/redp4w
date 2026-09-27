@@ -1,0 +1,35 @@
+name: Sync latest security notes
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/sync_latest.py'
+      - 'scripts/test_sync_latest.py'
+      - '.github/workflows/sync-latest.yml'
+permissions:
+  contents: write
+concurrency:
+  group: sync-latest
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate updater
+        run: python3 -m unittest discover -s scripts -p 'test_*.py' -v
+      - name: Retrieve published notes and update README
+        run: python3 scripts/sync_latest.py
+      - name: Commit only when changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo 'No new posts.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'docs: sync latest security notes'
+          git push
