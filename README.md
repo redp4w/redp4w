@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero.svg" alt="redp4w — Jezer Ferreira: Security Research, Blue Team e Offensive Learning" width="100%">
+  <img src="assets/hero.svg" alt="Security Research, Blue Team e Offensive Learning" width="100%">
   <br>
   <a href="https://redp4w.github.io/"><img src="https://img.shields.io/badge/PORTFÓLIO-SECURITY_NOTES-a8ff60?style=for-the-badge&labelColor=0b1314" alt="Portfólio"></a>
   <a href="https://www.linkedin.com/in/jezer-ferreira/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-65ddcf?style=for-the-badge&labelColor=0b1314" alt="LinkedIn"></a>
