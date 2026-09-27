@@ -1,3 +1,4 @@
+# Syncs only the published post index; keeps the rest of the public README untouched.
 name: Sync latest security notes
 on:
   schedule:
