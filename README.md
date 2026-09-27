@@ -14,7 +14,7 @@ Tecnologo em segurança da informação, entusiasta da tecnologia. Esse é meu e
 
 <!-- LATEST:START -->
 <table>
-<tr><td><code>27.09.2026</code></td><td><a href="https://redp4w.github.io/notes/fragnesia/"><strong>TryHackMe — Fragnesia | Linux Kernel Privilege Escalation</strong></a><br><sub>TryHackMe · publicação no portfólio</sub></td></tr>
+<tr><td><code>27.09.2026</code></td><td><a href="https://redp4w.github.io/notes/fragnesia/"><strong>TryHackMe - Fragnesia | Linux Kernel Privilege Escalation</strong></a><br><sub>TryHackMe · publicação no portfólio</sub></td></tr>
 </table>
 <!-- LATEST:END -->
 
