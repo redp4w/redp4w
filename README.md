@@ -57,8 +57,8 @@ SOC · SIEM · Log Analysis · Incident Response · Windows / Active Directory �
 
 ## TryHackMe
 
-<a href="https://tryhackme.com/p/probablyacat"><img src="assets/tryhackme-stats.svg" width="640" alt="TryHackMe em 27/09/2026: 24 badges, 16.090 pontos e 130 salas concluídas"></a>
+<a href="https://tryhackme.com/p/probablyacat"><img src="assets/tryhackme-stats.svg" width="640" alt="TryHackMe: [0xB][MASTER], 25 badges e 140 salas concluídas"></a>
 
-<sub>Dados de 27/09/2026. [Ver perfil atualizado ↗](https://tryhackme.com/p/probablyacat)</sub>
+<sub>[Ver perfil atualizado ↗](https://tryhackme.com/p/probablyacat)</sub>
 
 <!-- PLATAFORMAS: inclua aqui um link do Hack The Box quando o perfil público estiver disponível. -->
