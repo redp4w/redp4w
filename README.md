@@ -14,9 +14,9 @@ Tecnologo em segurança da informação, entusiasta da tecnologia. Esse é meu e
 
 <!-- LATEST:START -->
 <table>
+<tr><td><code>09.10.2026</code></td><td><a href="https://redp4w.github.io/notes/linux-privilege-escalation/"><strong>Linux Privilege Escalation - do sudo ao NFS</strong></a><br><sub>walkthrough · publicação no portfólio</sub></td></tr>
 <tr><td><code>07.10.2026</code></td><td><a href="https://redp4w.github.io/notes/bind-reverse-shell/"><strong>Bind Shell e Reverse Shell - do Netcat ao Socat/TLS</strong></a><br><sub>tutorial · publicação no portfólio</sub></td></tr>
 <tr><td><code>03.10.2026</code></td><td><a href="https://redp4w.github.io/notes/checkmate/"><strong>Checkmate - Quebrando senhas!</strong></a><br><sub>walkthrough · publicação no portfólio</sub></td></tr>
-<tr><td><code>01.10.2026</code></td><td><a href="https://redp4w.github.io/notes/criando-wordlists/"><strong>O básico de custom wordlists</strong></a><br><sub>tutorial · publicação no portfólio</sub></td></tr>
 </table>
 <!-- LATEST:END -->
 
