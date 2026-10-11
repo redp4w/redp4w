@@ -1,10 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 190" width="640" height="190" role="img" aria-labelledby="title desc">
-<title id="title">TryHackMe — probablyacat</title><desc id="desc">24 badges, 16.090 pontos e 130 salas concluídas.</desc>
+<title id="title">TryHackMe — probablyacat</title>
+<desc id="desc">[0xC][GURU], nível 61, rank 45946, top 2%, 26 badges e 151 salas concluídas.</desc>
 <rect x="1" y="1" width="638" height="188" rx="16" fill="#0d1117" stroke="#26333d"/>
 <path d="M28 33l8 7-8 7m15 0h10" fill="none" stroke="#69dbb5" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="68" y="46" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="600" fill="#e6edf3">TryHackMe</text>
 <text x="610" y="45" text-anchor="end" font-family="Consolas,monospace" font-size="14" fill="#96a5b3">probablyacat</text>
 <path d="M28 67h584" stroke="#26333d"/>
 <g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
-<g fill="#e6edf3" font-size="34" font-weight="600"><text x="110" y="124">24</text><text x="320" y="124">16.090</text><text x="530" y="124">130</text></g>
-<g fill="#69dbb5" font-size="15"><text x="110" y="154">Badges</text><text x="320" y="154">Pontos</text><text x="530" y="154">Salas concluídas</text></g></g></svg>
+<g fill="#e6edf3" font-size="30" font-weight="600">
+<text x="96" y="119">45.946</text>
+<text x="240" y="119">2%</text>
+<text x="392" y="119">26</text>
+<text x="544" y="119">151</text>
+</g>
+<g fill="#69dbb5" font-size="14">
+<text x="96" y="146">Rank</text>
+<text x="240" y="146">Top</text>
+<text x="392" y="146">Badges</text>
+<text x="544" y="146">Rooms</text>
+</g>
+</g>
+<text x="320" y="175" text-anchor="middle" font-family="Consolas,monospace" font-size="14" fill="#96a5b3">[0xC][GURU] · Level 61</text>
+</svg>
