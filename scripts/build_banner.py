@@ -33,11 +33,16 @@ def main():
         raise ValueError("Unexpected GitHub avatar response")
 
     image = Image.new("RGBA", SIZE, BG)
-    draw = ImageDraw.Draw(image)
+    # Grid on a separate alpha layer: 12% opacity, including intersections.
+    # This avoids opaque grid strokes and preserves the dark background.
+    grid_layer = Image.new("RGBA", SIZE, (0, 0, 0, 0))
+    grid_draw = ImageDraw.Draw(grid_layer)
+    grid_color = (36, 65, 55, 31)  # ~12% opacity; never more than 15%
     for x in range(0, SIZE[0], 25):
-        draw.line((x, 0, x, SIZE[1]), fill=GRID, width=1)
+        grid_draw.line((x, 0, x, SIZE[1]), fill=grid_color, width=1)
     for y in range(0, SIZE[1], 25):
-        draw.line((0, y, SIZE[0], y), fill=GRID, width=1)
+        grid_draw.line((0, y, SIZE[0], y), fill=grid_color, width=1)
+    image = Image.alpha_composite(image, grid_layer)
 
     # Gentle radial transparency for the actual account avatar.
     avatar_size = 244
