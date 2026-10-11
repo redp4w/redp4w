@@ -8,7 +8,7 @@
 
 ## Quem sou
 
-Tecnologo em segurança da informação, entusiasta da tecnologia. Esse é meu espaço pra compartilhar meus estudos, writeups e walktroughs que faço por ai.
+Tecnólogo em Segurança da Informação, entusiasta de tecnologia. Compartilho aqui meus estudos, writeups e walkthroughs sobre segurança ofensiva, SOC, redes e sistemas.
 
 ## Últimas publicações
 
@@ -24,21 +24,37 @@ Tecnologo em segurança da informação, entusiasta da tecnologia. Esse é meu e
 
 ## Skills
 
-<!-- SKILLS: copie uma linha <img> para acrescentar um ícone. Os SVGs estão em assets/. -->
 **Sistemas e automação**
 
 <p>
   <img src="assets/linux.svg" width="40" height="40" alt="Linux" title="Linux">&nbsp;
   <img src="assets/windows.svg" width="40" height="40" alt="Windows" title="Windows">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="40" height="40" alt="PowerShell" title="PowerShell">&nbsp;
   <img src="assets/python.svg" width="40" height="40" alt="Python" title="Python">&nbsp;
   <img src="assets/bash.svg" width="40" height="40" alt="Bash" title="Bash">&nbsp;
-  <img src="assets/git.svg" width="40" height="40" alt="Git" title="Git">
+  <img src="assets/git.svg" width="40" height="40" alt="Git" title="Git">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker">
 </p>
 
-<!-- SKILLS: adicione termos na linha abaixo, separados por ponto mediano. -->
-**Segurança e pesquisa**
+**SOC, SIEM e análise de logs**
 
-SOC · SIEM · Log Analysis · Incident Response · Windows / Active Directory · Linux · Network Security · Web Security · OWASP · MITRE ATT&CK · Wireshark · Nmap · Python / Shell · GRC · ISO 27001/27002 · LGPD
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="40" height="40" alt="Elastic" title="Elastic / Elasticsearch">&nbsp;
+  <img src="https://cdn.simpleicons.org/splunk/65A637" width="40" height="40" alt="Splunk" title="Splunk">&nbsp;
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="40" height="40" alt="Wireshark" title="Wireshark">
+</p>
+
+**Pentest e segurança web**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" width="40" height="40" alt="Kali Linux" title="Kali Linux">&nbsp;
+  <img src="https://cdn.simpleicons.org/metasploit/1674B1" width="40" height="40" alt="Metasploit" title="Metasploit">&nbsp;
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="40" height="40" alt="Burp Suite" title="Burp Suite">
+</p>
+
+**Conhecimentos e ferramentas**
+
+SOC · SIEM · Incident Response · Elastic · Splunk · Sysmon · Volatility 3 · Active Directory · Linux · Kali Linux · Nmap · Wireshark · Metasploit · Burp Suite · ffuf · Hydra · Hashcat · John the Ripper · OWASP · MITRE ATT&CK · GRC · ISO 27001/27002 · LGPD
 
 ## Certificados
 
@@ -57,8 +73,8 @@ SOC · SIEM · Log Analysis · Incident Response · Windows / Active Directory �
 
 ## TryHackMe
 
-<a href="https://tryhackme.com/p/probablyacat"><img src="assets/tryhackme-stats.svg" width="640" alt="TryHackMe: [0xB][MASTER], 25 badges e 140 salas concluídas"></a>
+<a href="https://tryhackme.com/p/probablyacat"><img src="assets/tryhackme-stats.svg" width="640" alt="TryHackMe: [0xC][GURU], nível 61, rank 45.946 (top 2%), 26 badges e 151 salas concluídas"></a>
 
-<sub>[Ver perfil atualizado ↗](https://tryhackme.com/p/probablyacat)</sub>
+<sub>[Ver perfil ↗](https://tryhackme.com/p/probablyacat)</sub>
 
 <!-- PLATAFORMAS: inclua aqui um link do Hack The Box quando o perfil público estiver disponível. -->
