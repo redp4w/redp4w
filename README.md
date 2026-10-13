@@ -14,9 +14,9 @@ Tecnólogo em Segurança da Informação, entusiasta de tecnologia. Compartilho 
 
 <!-- LATEST:START -->
 <table>
+<tr><td><code>13.10.2026</code></td><td><a href="https://redp4w.github.io/notes/windows-privilege-escalation/"><strong>Windows Privilege Escalation - Backup Operators, Tokens e Druva inSync</strong></a><br><sub>walkthrough · publicação no portfólio</sub></td></tr>
 <tr><td><code>11.10.2026</code></td><td><a href="https://redp4w.github.io/notes/linux-cron-suid-ld-preload/"><strong>Linux Privilege Escalation - Cron, SUID e LD_PRELOAD</strong></a><br><sub>walkthrough · publicação no portfólio</sub></td></tr>
 <tr><td><code>09.10.2026</code></td><td><a href="https://redp4w.github.io/notes/linux-privilege-escalation/"><strong>Linux Privilege Escalation - do sudo ao NFS</strong></a><br><sub>walkthrough · publicação no portfólio</sub></td></tr>
-<tr><td><code>07.10.2026</code></td><td><a href="https://redp4w.github.io/notes/bind-reverse-shell/"><strong>Bind Shell e Reverse Shell - do Netcat ao Socat/TLS</strong></a><br><sub>tutorial · publicação no portfólio</sub></td></tr>
 </table>
 <!-- LATEST:END -->
 
