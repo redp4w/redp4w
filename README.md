@@ -14,9 +14,9 @@ Tecnólogo em Segurança da Informação, entusiasta de tecnologia. Compartilho 
 
 <!-- LATEST:START -->
 <table>
+<tr><td><code>15.10.2026</code></td><td><a href="https://redp4w.github.io/notes/windows-jump/"><strong>Windows Jump - Do Guest ao SYSTEM: SMB, AutoLogon e Hijacking</strong></a><br><sub>walkthrough · publicação no portfólio</sub></td></tr>
 <tr><td><code>13.10.2026</code></td><td><a href="https://redp4w.github.io/notes/windows-privilege-escalation/"><strong>Windows Privilege Escalation - Backup Operators, Tokens e Druva inSync</strong></a><br><sub>walkthrough · publicação no portfólio</sub></td></tr>
 <tr><td><code>13.10.2026</code></td><td><a href="https://redp4w.github.io/notes/jump-recon-ftp-privesc/"><strong>Linux Jump - Do Recon ao Root: FTP, Reverse Shell e PrivEsc</strong></a><br><sub>walkthrough · publicação no portfólio</sub></td></tr>
-<tr><td><code>11.10.2026</code></td><td><a href="https://redp4w.github.io/notes/linux-cron-suid-ld-preload/"><strong>Linux Privilege Escalation - Cron, SUID e LD_PRELOAD</strong></a><br><sub>walkthrough · publicação no portfólio</sub></td></tr>
 </table>
 <!-- LATEST:END -->
 
