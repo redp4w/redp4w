@@ -14,9 +14,9 @@ Tecnólogo em Segurança da Informação, entusiasta de tecnologia. Compartilho 
 
 <!-- LATEST:START -->
 <table>
+<tr><td><code>21.10.2026</code></td><td><a href="https://redp4w.github.io/notes/windows-credential-stores/"><strong>Windows Credential Stores - Do Administrador Local ao Domain Admin</strong></a><br><sub>walkthrough · publicação no portfólio</sub></td></tr>
 <tr><td><code>21.10.2026</code></td><td><a href="https://redp4w.github.io/notes/ad-lateral-movement/"><strong>AD Lateral Movement - PsExec, WinRM, Pass-the-Hash e Pivoting</strong></a><br><sub>walkthrough · publicação no portfólio</sub></td></tr>
 <tr><td><code>19.10.2026</code></td><td><a href="https://redp4w.github.io/notes/ad-authenticated-enumeration/"><strong>Active Directory (AD DS) - Guia prático de enumeração e autenticação</strong></a><br><sub>guia · publicação no portfólio</sub></td></tr>
-<tr><td><code>15.10.2026</code></td><td><a href="https://redp4w.github.io/notes/windows-jump/"><strong>Windows Jump - Do Guest ao SYSTEM: SMB, AutoLogon e Hijacking</strong></a><br><sub>walkthrough · publicação no portfólio</sub></td></tr>
 </table>
 <!-- LATEST:END -->
 
