@@ -14,9 +14,9 @@ Tecnólogo em Segurança da Informação, entusiasta de tecnologia. Compartilho 
 
 <!-- LATEST:START -->
 <table>
+<tr><td><code>25.10.2026</code></td><td><a href="https://redp4w.github.io/notes/proxy-rbcd-active-directory/"><strong>Proxy - Do Credential Reuse ao SYSTEM no Domain Controller (RBCD)</strong></a><br><sub>walkthrough · publicação no portfólio</sub></td></tr>
 <tr><td><code>22.10.2026</code></td><td><a href="https://redp4w.github.io/notes/proxy/"><strong>Proxy</strong></a><br><sub>walkthrough · publicação no portfólio</sub></td></tr>
 <tr><td><code>21.10.2026</code></td><td><a href="https://redp4w.github.io/notes/windows-credential-stores/"><strong>Windows Credential Stores - Do Administrador Local ao Domain Admin</strong></a><br><sub>walkthrough · publicação no portfólio</sub></td></tr>
-<tr><td><code>21.10.2026</code></td><td><a href="https://redp4w.github.io/notes/ad-lateral-movement/"><strong>AD Lateral Movement - PsExec, WinRM, Pass-the-Hash e Pivoting</strong></a><br><sub>walkthrough · publicação no portfólio</sub></td></tr>
 </table>
 <!-- LATEST:END -->
 
