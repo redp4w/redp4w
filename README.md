@@ -14,9 +14,9 @@ Tecnólogo em Segurança da Informação, entusiasta de tecnologia. Compartilho 
 
 <!-- LATEST:START -->
 <table>
-<tr><td><code>08.11.2026</code></td><td><a href="https://redp4w.github.io/notes/dead-drop-sqli-rce-ssh-socks-domain-admin/"><strong>Dead Drop — SQLi, RCE em Node.js, SSH SOCKS e acesso ao Domain Controller</strong></a><br><sub>walkthrough · publicação no portfólio</sub></td></tr>
-<tr><td><code>04.11.2026</code></td><td><a href="https://redp4w.github.io/notes/silent-monitor-sqli-command-injection-keepass-root/"><strong>Silent Monitor — SQLi, Command Injection e KeePass até root</strong></a><br><sub>walkthrough · publicação no portfólio</sub></td></tr>
-<tr><td><code>02.11.2026</code></td><td><a href="https://redp4w.github.io/notes/nexuscorp-do-recon-ao-root/"><strong>NexusCorp - Do Recon ao Root: IDOR, JWT, RFI, SSH e Cron</strong></a><br><sub>walkthrough · publicação no portfólio</sub></td></tr>
+<tr><td><code>14.11.2026</code></td><td><a href="https://redp4w.github.io/notes/operation-promotion-sqli-idor-rce-bcrypt-sudo-find/"><strong>Operation Promotion — SQLi, IDOR, Command Injection e sudo find até root</strong></a><br><sub>walkthrough · publicação no portfólio</sub></td></tr>
+<tr><td><code>14.11.2026</code></td><td><a href="https://redp4w.github.io/notes/operation-coldstart-ssrf-tar-wildcard-cron-root/"><strong>Operation Coldstart — SSRF, FTP anônimo e Tar Wildcard Injection até root</strong></a><br><sub>walkthrough · publicação no portfólio</sub></td></tr>
+<tr><td><code>14.11.2026</code></td><td><a href="https://redp4w.github.io/notes/guia-nmap-telnet-hydra/"><strong>Nmap, Telnet e Hydra — guia prático de redes e pentest</strong></a><br><sub>tutorial · publicação no portfólio</sub></td></tr>
 </table>
 <!-- LATEST:END -->
 
