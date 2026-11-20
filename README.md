@@ -14,9 +14,9 @@ Tecnólogo em Segurança da Informação, entusiasta de tecnologia. Compartilho 
 
 <!-- LATEST:START -->
 <table>
+<tr><td><code>20.11.2026</code></td><td><a href="https://redp4w.github.io/notes/seguranca-em-ia-llms-supply-chain-prompt-injection/"><strong>Guia: Segurança em LLMs</strong></a><br><sub>guia · publicação no portfólio</sub></td></tr>
 <tr><td><code>14.11.2026</code></td><td><a href="https://redp4w.github.io/notes/operation-promotion-sqli-idor-rce-bcrypt-sudo-find/"><strong>Operation Promotion — SQLi, IDOR, Command Injection e sudo find até root</strong></a><br><sub>walkthrough · publicação no portfólio</sub></td></tr>
 <tr><td><code>14.11.2026</code></td><td><a href="https://redp4w.github.io/notes/operation-coldstart-ssrf-tar-wildcard-cron-root/"><strong>Operation Coldstart — SSRF, FTP anônimo e Tar Wildcard Injection até root</strong></a><br><sub>walkthrough · publicação no portfólio</sub></td></tr>
-<tr><td><code>14.11.2026</code></td><td><a href="https://redp4w.github.io/notes/guia-nmap-telnet-hydra/"><strong>Nmap, Telnet e Hydra — guia prático de redes e pentest</strong></a><br><sub>tutorial · publicação no portfólio</sub></td></tr>
 </table>
 <!-- LATEST:END -->
 
