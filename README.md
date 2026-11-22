@@ -91,18 +91,12 @@ Prompt injection · Jailbreaks · Testes de segurança em aplicações com LLMs 
   <a href="https://www.credly.com/badges/c815664d-6711-4c5d-bc78-c4487eb3cb00/public_url"><img src="https://images.credly.com/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/linkedin_thumb_CyberEssentials.png" width="96" alt="Cisco Cybersecurity Essentials" title="Cisco Cybersecurity Essentials"></a>
 </p>
 
-<!-- CERTIFICADOS / TryHackMe: duplique o link, indicando o PDF e o SVG correspondente. -->
-<p>
-  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-TYL8UUJYPZ.pdf"><img src="assets/soc-level-1.svg" width="270" alt="TryHackMe SOC Level 1 — conclusão"></a>&nbsp;
-  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DL9UOH1E8A.pdf"><img src="assets/hacker-holidays.svg" width="270" alt="TryHackMe Hacker Holidays — participação"></a>
-</p>
-
 ## TryHackMe
 
 <a href="https://tryhackme.com/p/probablyacat"><img src="assets/tryhackme-stats.svg" width="640" alt="TryHackMe probablyacat: Top 1% global, 220 rooms concluídas, 28 de 138 badges, 3 learning paths concluídos e Sapphire como maior liga alcançada"></a>
 
 **Top 1% global** · **Sapphire (maior liga alcançada)** · **220 rooms** · **28/138 badges** · **3 learning paths concluídos**
 
-<sub>[Ver perfil ↗](https://tryhackme.com/p/probablyacat) · Estatísticas registradas em 22/11/2026</sub>
+<sub>[Ver perfil ↗](https://tryhackme.com/p/probablyacat)</sub>
 
 <!-- PLATAFORMAS: inclua aqui um link do Hack The Box quando o perfil público estiver disponível. -->
