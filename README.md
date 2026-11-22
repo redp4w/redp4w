@@ -54,7 +54,33 @@ Tecnólogo em Segurança da Informação, entusiasta de tecnologia. Compartilho 
 
 **Conhecimentos e ferramentas**
 
-SOC · SIEM · Incident Response · Elastic · Splunk · Sysmon · Volatility 3 · Active Directory · Linux · Kali Linux · Nmap · Wireshark · Metasploit · Burp Suite · ffuf · Hydra · Hashcat · John the Ripper · OWASP · MITRE ATT&CK · GRC · ISO 27001/27002 · LGPD
+SOC · SIEM · Incident Response · Elastic · Splunk · Sysmon · Volatility 3 · Active Directory · Linux · Kali Linux · Nmap · Wireshark · Metasploit · Burp Suite · ffuf · Gobuster · Hydra · Hashcat · John the Ripper · OWASP · MITRE ATT&CK · GRC · ISO 27001/27002 · LGPD
+
+**Segurança em IA e LLMs**
+
+Prompt injection · Jailbreaks · Testes de segurança em aplicações com LLMs · Supply chain de IA · Desserialização insegura (Pickle) · Fickling · ModelScan · pip-audit · Syft / SBOM
+
+**Prática em laboratórios**
+
+- **SOC / Blue Team:** triagem de alertas, análise de logs, tráfego de rede, eventos Windows/Linux e investigação inicial de incidentes.
+- **Pentest web e infraestrutura:** reconhecimento, enumeração, autenticação, SQL Injection, IDOR, SSRF, Command Injection, análise de sessões e escalonamento de privilégios.
+- **Active Directory / identidade:** enumeração autenticada, Kerberos, AS-REP Roasting, RBCD e controles de acesso.
+- **Sistemas / automação:** Linux, Windows, Python, Bash, PowerShell e scripts para análise e tarefas repetitivas.
+- **Segurança de IA:** avaliação de entradas maliciosas, jailbreaks e riscos em modelos, arquivos, dependências e integrações com LLMs.
+
+## Trilhas concluídas no TryHackMe
+
+| Learning path | Conclusão | Foco prático |
+| --- | :---: | --- |
+| [SOC Level 1](https://tryhackme.com/path/outline/soclevel1) | 07/09/2026 | Monitoramento, análise de eventos, triagem e resposta inicial |
+| [Jr Penetration Tester](https://tryhackme.com/path/outline/jrpenetrationtester) | 16/11/2026 | Reconhecimento, pentest web, redes e exploração em laboratório |
+| [AI Security](https://tryhackme.com/path/outline/aisecurity) | 22/11/2026 | Prompt injection, jailbreaks, segurança de LLMs e supply chain de IA |
+
+## Labs e guias selecionados
+
+- **Exploração web / Linux:** [Operation Promotion](https://redp4w.github.io/notes/operation-promotion-sqli-idor-rce-bcrypt-sudo-find/) · [Operation Coldstart](https://redp4w.github.io/notes/operation-coldstart-ssrf-tar-wildcard-cron-root/) · [Silent Monitor](https://redp4w.github.io/notes/silent-monitor-sqli-command-injection-keepass-root/)
+- **Reconhecimento / Active Directory:** [NexusCorp](https://redp4w.github.io/notes/nexuscorp-do-recon-ao-root/) · [AD: Authenticated Enumeration](https://redp4w.github.io/notes/ad-authenticated-enumeration/)
+- **Segurança de IA:** [Guia: Segurança em LLMs](https://redp4w.github.io/notes/seguranca-em-ia-llms-supply-chain-prompt-injection/)
 
 ## Certificados
 
@@ -73,8 +99,10 @@ SOC · SIEM · Incident Response · Elastic · Splunk · Sysmon · Volatility 3 
 
 ## TryHackMe
 
-<a href="https://tryhackme.com/p/probablyacat"><img src="assets/tryhackme-stats.svg" width="640" alt="TryHackMe: [0xC][GURU], nível 61, rank 45.946 (top 2%), 26 badges e 151 salas concluídas"></a>
+<a href="https://tryhackme.com/p/probablyacat"><img src="assets/tryhackme-stats.svg" width="640" alt="TryHackMe probablyacat: Top 1% global, 220 rooms concluídas, 28 de 138 badges, 3 learning paths concluídos e Sapphire como maior liga alcançada"></a>
 
-<sub>[Ver perfil ↗](https://tryhackme.com/p/probablyacat)</sub>
+**Top 1% global** · **Sapphire (maior liga alcançada)** · **220 rooms** · **28/138 badges** · **3 learning paths concluídos**
+
+<sub>[Ver perfil ↗](https://tryhackme.com/p/probablyacat) · Estatísticas registradas em 22/11/2026</sub>
 
 <!-- PLATAFORMAS: inclua aqui um link do Hack The Box quando o perfil público estiver disponível. -->
