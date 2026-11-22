@@ -95,7 +95,6 @@ Prompt injection · Jailbreaks · Testes de segurança em aplicações com LLMs 
 
 <a href="https://tryhackme.com/p/probablyacat"><img src="assets/tryhackme-stats.svg" width="640" alt="TryHackMe probablyacat: Top 1% global, 220 rooms concluídas, 28 de 138 badges, 3 learning paths concluídos e Sapphire como maior liga alcançada"></a>
 
-**Top 1% global** · **Sapphire (maior liga alcançada)** · **220 rooms** · **28/138 badges** · **3 learning paths concluídos**
 
 <sub>[Ver perfil ↗](https://tryhackme.com/p/probablyacat)</sub>
 
